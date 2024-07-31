@@ -44,7 +44,7 @@ A collection of papers from **Binocular Stereo Vision** to **Multi-View Stereo V
 - DTU: Large Scale Multi-view Stereopsis Evaluation [[paper](https://paperswithcode.com/dataset/dtu)]
 
 ## Progress Of Specific 3D Reconstruction Task 
-Please check the doc to get the newest progress.
+Please check the "progress" to get the newest progress.
 
 ## Weekly Paper Report of Some Papers
-Please check the doc to get the newest progress.
+Please check the "doc" to get the newest progress.
