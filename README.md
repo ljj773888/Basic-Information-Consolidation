@@ -3,7 +3,7 @@ A collection of papers from **Binocular Stereo Vision** to **Multi-View Stereo V
 
 **Mastery of Basic Terms in This Field: Some Examples**
 
-![Example Image](pic/examples.png "examples1")
+![Example Image](pic/examples1.png "examples")
 
 - **Epipolar Geometry:** Epipolar geometry
 - **Baseline (baseline):** The straight line Oc-Oc’ is the baseline.
@@ -25,7 +25,7 @@ A collection of papers from **Binocular Stereo Vision** to **Multi-View Stereo V
 
 - **Disparity:** It is the calculation of |XR - XT| in the diagram below.
 
-![Example Image](pic/examples.png "examples2")
+![Example Image](pic/examples2.png "examples")
 
 ## Surveys or Papers
 - Stereo vision algorithms and applications [[paper](https://pan.baidu.com/s/1aCDHkCDUd7gjEFX2l3m-LA)]
