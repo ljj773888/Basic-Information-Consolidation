@@ -13,15 +13,15 @@ A collection of papers from **Binocular Stereo Vision** to **Multi-View Stereo V
 - **Epipolar Constraint:** The correspondence relationship between points on the epipolar lines.
   - Explanation: Line l is the epipolar line corresponding to point x’, and line l’ is the epipolar line corresponding to point x. The epipolar constraint means that point x’ must lie on the epipolar line l’ corresponding to x, and point x must lie on the epipolar line l corresponding to x’.
 
-**Stereo Matching:**
-- After rectification, the next step is correspondence, also known as stereo matching. 
-- Intuitively, this involves finding points in the left and right images that correspond to the same point in reality. Through the disparity between these two points, the depth information of this point in reality can be obtained.
+- **Stereo Matching:**
+  - After rectification, the next step is correspondence, also known as stereo matching. 
+  - Intuitively, this involves finding points in the left and right images that correspond to the same point in reality. Through the disparity between these two points, the depth information of this point in reality can be obtained.
 
-**Matching Cost:**
-- Since it involves finding the same points in two images, it is necessary to determine the similarity between the two points. This similarity description is called matching cost.
-- However, it is unreasonable to consider only a single point because there are definitely relationships between pixels in the image. Therefore, it is necessary to consider the correlation between pixels to optimize the initial cost.
+- **Matching Cost:**
+  - Since it involves finding the same points in two images, it is necessary to determine the similarity between the two points. This similarity description is called matching cost.
+  - However, it is unreasonable to consider only a single point because there are definitely relationships between pixels in the image. Therefore, it is necessary to consider the correlation between pixels to optimize the initial cost.
 
-**Disparity:** It is the calculation of |XR - XT| in the diagram below.
+- **Disparity:** It is the calculation of |XR - XT| in the diagram below.
 
 ![Example Image](figure/examples.png "examples")
 
