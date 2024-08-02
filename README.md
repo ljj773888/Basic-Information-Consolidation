@@ -42,7 +42,7 @@ A collection of papers from **Binocular Stereo Vision** to **Multi-View Stereo V
 - IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation [[paper](https://arxiv.org/abs/1912.09678)]
 - ETH3D: A Multi-View Stereo Benchmark With High-Resolution Images and Multi-Camera Videos [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Schops_A_Multi-View_Stereo_CVPR_2017_paper.pdf)]
 - DTU: Large Scale Multi-view Stereopsis Evaluation [[paper](https://paperswithcode.com/dataset/dtu)]
-
+- BlendedMVS: BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)]
 ## Progress Of Specific 3D Reconstruction Task 
 Please check the "progress" to get the newest progress.
 
